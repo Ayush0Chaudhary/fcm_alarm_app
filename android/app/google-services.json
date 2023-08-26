@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511390327143",
+    "project_id": "coretechies-991a4",
+    "storage_bucket": "coretechies-991a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511390327143:android:dd4723428d491e00e40fc2",
+        "android_client_info": {
+          "package_name": "com.example.notif_alarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511390327143-a05u3givuf1o1jsm6rl4jg4o2st8jp3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO-Gq244ZLdq4nuaM-heJctO-mQebUWj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511390327143-a05u3givuf1o1jsm6rl4jg4o2st8jp3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
